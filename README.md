@@ -1,7 +1,7 @@
 ## ⚠️  Warning:
 By ejecting your create-react-app you will not benefit from upstream changes.
 
-Alernatively use [grommet-css](https://github.com/mvanlonden/grommet-css) to include vanilla styling.
+Alernatively use [grommet-css](https://github.com/mvanlonden/grommet-css) to include vanilla or custom css.
 
 --------
 
