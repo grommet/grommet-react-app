@@ -1,3 +1,10 @@
+## ⚠️  Warning:
+By ejecting your create-react-app you will not benefit from upstream changes.
+
+Alernatively use [grommet-css](https://github.com/mvanlonden/grommet-css) to include vanilla styling.
+
+--------
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
