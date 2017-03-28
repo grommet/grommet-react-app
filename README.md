@@ -3,6 +3,8 @@ By ejecting your create-react-app you will not benefit from upstream changes.
 
 Alernatively use [grommet-css](https://github.com/mvanlonden/grommet-css) to include vanilla or custom css.
 
+Check out an example [here](https://github.com/mvanlonden/grommet-create-react-app).
+
 --------
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
